@@ -1,4 +1,4 @@
-This is the continuation of SalesforceCRM project 1 which is avaiable in SalesforceCRM resiporatory.
+This is the continuation of SalesforceCRM project 1 which is avaiable in SalesforceCRM  repository.
 
 Project 2: Digital Experience and Product Catalog Setup
 1. Enabling Digital Experience
